@@ -17,6 +17,8 @@ I will provide one example using a proprietary technology you may be familiare w
 
 ## Assignment
 
+Create a file named `answers.txt` containing your short answer responses to the following questions. Create a new GitHub branch named `solution` add your file to this branch. When you are finished, submit a Pull Request to merge the `solution` branch to `master`. _Do not merge the branch yourself!_
+
 1. How do the results compare between job search results for "arcgis server" vs. "geoserver"? Discuss your findings with respect to number of jobs, salaries, and types of jobs. Be aware of jobs that are tagged as "sponsored".
 
 2. Look through the class syllabus and search for additional technologies and compare the job search results to searches with similar software you know (e.g., arcgis vs. qgis, sde vs. postgis, arcgis javascript vs. openlayers or leaflet.
