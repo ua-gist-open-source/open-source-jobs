@@ -15,20 +15,16 @@ I will provide one example using a proprietary technology you may be familiare w
 ### Indeed job search for "geoserver"
 ![Indeed Geoserver Jobs](indeed-geoserver-jobs.png) 
 
-For this assignment, we will look at trends 
-
-Are there more or fewer jobs focused on open source GIS technology? Do the types of jobs vary with the specific technologies? Do the salaries vary with the specific technologies
-
 ## Assignment
 
-### 1. (short answer): How do the results compare between job search results for "arcgis server" vs. "geoserver"? Discuss your findings with respect to number of jobs, salaries, and types of jobs. Be aware of jobs that are tagged as "sponsored".
+1. How do the results compare between job search results for "arcgis server" vs. "geoserver"? Discuss your findings with respect to number of jobs, salaries, and types of jobs. Be aware of jobs that are tagged as "sponsored".
 
-### 2. (short answer): Look through the class syllabus and search for additional technologies and compare the job search results to searches with similar software you know (e.g., arcgis vs. qgis, sde vs. postgis, arcgis javascript vs. openlayers or leaflet.
+2. Look through the class syllabus and search for additional technologies and compare the job search results to searches with similar software you know (e.g., arcgis vs. qgis, sde vs. postgis, arcgis javascript vs. openlayers or leaflet.
 
-### 3. (short answer): Perform similar searches as above but add "git" or "docker" to the search query. How does that change the search results? 
+3. Perform similar searches as above but add "git" or "docker" to the search query. How does that change the search results? 
 
-### 4. Assume you have acquired the skills listed in the syllabus. Find one job advertisement that you would not have otherwise found or realized you were qualified for. Describe why that job is interesting to you and why it would not have been on your radar previously.
+4. Assume you have acquired the skills listed in the syllabus. Find one job advertisement that you would not have otherwise found or realized you were qualified for. Describe why that job is interesting to you and why it would not have been on your radar previously.
 
 ### 5. Turn in your work via GitHub Pull Request. 
 
-Create a file named `assignment.txt` containing your answers to the above questions and add it to a new GitHub branch named `solution`. Submit a *Pull request* to merge your assignment files with the `master` branch.
+Submit a *Pull request* to merge your assignment files with the `master` branch.
